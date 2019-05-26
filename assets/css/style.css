@@ -3,7 +3,7 @@ body {
     font-size: 18px;
     line-height: 34px;
     color: #777777;
-    background: url("/assets/images/concrete_seamless.png"):
+    background: url("../images/concrete_seamless.png");
 }
 
 * {
@@ -69,6 +69,7 @@ h2, h3 {
     text-align: center;
     text-decoration: none;
     background: #4aaaa5;
+    overflow: auto;
 }
 
 nav {
